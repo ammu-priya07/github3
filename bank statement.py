@@ -70,4 +70,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main()  # Run the main function to start the program
